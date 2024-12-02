@@ -1,0 +1,11 @@
+#name, #email{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    padding-bottom: 1cm;
+}
+#zapisz, #anuluj{
+    background-color: orange;
+    padding: 1cm;
+}
